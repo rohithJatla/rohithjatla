@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rohith Jatla (RJ)  
 
-🚀 I turn real-world problems into scalable backend systems—fast. Whether it's IoT telemetry, cloud-native microservices, or high-performance APIs, I build clean, efficient code that lasts.
+🚀 I turn real-world problems into scalable backend systems fast. Whether it's IoT telemetry, cloud-native microservices, or high-performance APIs, I build clean, efficient code that lasts.
 
 ---
 
@@ -68,3 +68,4 @@ A secure journal application with async task queues, real-time updates, and robu
 ---
 
 ⭐️ **Fun Fact:** I love solving performance bottlenecks and tuning systems to fly 🚀  
+
