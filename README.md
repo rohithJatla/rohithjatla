@@ -18,11 +18,11 @@
 
 ## 🛠️ Tech Stack  
 
-**Languages:** Java, Python, Golang, JavaScript, TypeScript  
+**Languages:** Java, Python, C# JavaScript, TypeScript  
 **Frameworks:** Spring Boot, FastAPI, React.js, Node.js, Next.js  
-**Databases:** PostgreSQL, MongoDB, MySQL, DynamoDB  
+**Databases:** PostgreSQL, MongoDB, MySQL, DynamoDB, SQLite, Timescale  
 **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Terraform  
-**Messaging & Caching:** Apache Kafka, Redis, Celery  
+**Messaging & Caching:** Apache Kafka, Redis, Celery
 **Tools:** Git, Jira, Bitbucket, Postman, Swagger, Pytest, JUnit  
 
 ---
@@ -43,22 +43,6 @@
 
 ---
 
-## 📚 Featured Projects  
-
-### 📘 Journal Management System  
-A secure journal application with async task queues, real-time updates, and robust role-based access control.
-
-- **Backend**: Java + Spring Boot / Python + FastAPI  
-- **Database**: MongoDB, Redis  
-- **Auth**: Spring Security + OAuth2 / JWT  
-- **Queue**: Kafka or Celery  
-- **Docs**: Swagger / OpenAPI  
-
-🛠 Technologies: Spring Boot, FastAPI, MongoDB, Kafka, Redis, Celery  
-🔗 [GitHub Projects](https://github.com/rohithJatla?tab=repositories)
-
----
-
 ## 📬 Let's Connect
 
 - 📧 Email: jatlar1@udayton.edu  
@@ -68,4 +52,5 @@ A secure journal application with async task queues, real-time updates, and robu
 ---
 
 ⭐️ **Fun Fact:** I love solving performance bottlenecks and tuning systems to fly 🚀  
+
 
